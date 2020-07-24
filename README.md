@@ -17,6 +17,6 @@ pub get
 
 ### Mobile Demo
 
-![](mobileDemo.png)
+![](mobileDemo.jpeg)
 
 
