@@ -1,6 +1,6 @@
 # reham_card
 
-Flutter snake game.
+Flutter Web / Mobile snake game
 
 ## Installation
 
