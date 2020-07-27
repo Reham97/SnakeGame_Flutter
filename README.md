@@ -1,4 +1,4 @@
-# reham_card
+# Snake Game
 
 Flutter Web / Mobile snake game
 
