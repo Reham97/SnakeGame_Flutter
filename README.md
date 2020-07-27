@@ -11,12 +11,15 @@ pub get
 ```
 ## Demo
 
-### Web Demo
-
-![](webDemo.png)
-
-### Mobile Demo
-
-![](mobileDemo.jpeg)
+### Hosting URL
+https://flutter-snake.web.app
 
 
+### Screenshots
+
+###### Web
+<img src="webDemo.png" width="500" height="400">
+
+
+###### Mobile
+<img src="mobileDemo.jpeg" width="400" height="400">
